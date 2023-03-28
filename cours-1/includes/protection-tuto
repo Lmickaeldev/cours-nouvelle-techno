@@ -1,0 +1,5 @@
+htmlentities = encode des charactere html
+htmlspecialchar = encode des charactere html
+
+strip_tags = enleve les balise html
+

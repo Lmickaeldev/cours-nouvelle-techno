@@ -31,6 +31,6 @@ $requete->execute();
 
 $user = $requete ->fetch();
 
-var_dump($user);
+
 
 ?>
